@@ -1,76 +1,73 @@
 <div align="center">
+
+# ⚡ SYSTEM ARCHITECT: SHREYA RAVAL
   
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=250&section=header&text=SHREYA%20RAVAL&fontSize=70&animation=fadeIn&fontColor=64FFDA" width="100%" />
 
-  <p align="center">
-    <b>Full Stack Developer | Backend Architect | Problem Solver</b>
-  </p>
+### 🟢 CURRENT_STATUS
+`[ 2+ Years Exp ]` • `[ MERN Enthusiast ]` • `[ Logic Designer ]` • `[ Ahmedabad, IN ]`
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+scalable+systems...;MERN+Stack+Specialist;Turning+logic+into+art.;Available+for+Collaboration." alt="Typing SVG" />
+---
 
 </div>
 
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 MISSION_LOG</h3>
+      I architect digital ecosystems with depth and precision. My journey started in the depths of PHP/Laravel backend logic and has evolved into building modern, interactive MERN stack applications.
+      <br/><br/>
+      <b>Currently focused on:</b>
+      <ul>
+        <li>Scalable Microservices</li>
+        <li>AI Tool Integration</li>
+        <li>DSA & Logic Optimization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ TECH_STACK</h3>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 🌌 The Core Engine
+### 📂 CORE_PROJECTS
 
-I don’t just write code; I design digital infrastructure. With **2+ years of experience**, I’ve evolved from building robust PHP architectures to crafting modern full-stack experiences with the MERN ecosystem.
+> **[01] AI_CLUSTER** 🤖
+> *An AI tools discovery platform built to organize the future of software.*
+> `Next.js` • `MySQL` • `System Design`
 
-- 🏙️ **Based in:** Ahmedabad, India
-- 🛠️ **Current Focus:** Optimizing API performance & mastering System Design.
-- 🧪 **Experiments:** Integrating AI tools into real-world workflows.
-
----
-
-### ⚡ Tech Arsenal
-
-<div align="left">
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | `React.js` `Next.js` `TailwindCSS` `TypeScript` |
-| **Backend** | `Node.js` `Express` `PHP` `Laravel` `CodeIgniter` |
-| **Database** | `MongoDB` `MySQL` `Firebase` `PostgreSQL` |
-| **DevOps** | `Vercel` `Git` `RESTful APIs` `Payload CMS` |
-
-</div>
+> **[02] MY_BUILDINGS** 🏢
+> *Full-scale society management ecosystem with RESTful API architecture.*
+> `PHP` • `CodeIgniter` • `Firebase`
 
 ---
 
-### 📊 System Diagnostics (GitHub Stats)
+### 📊 ANALYTICS_STREAM
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-raval&layout=compact&theme=tokyonight&hide_border=true&title_color=64FFDA&text_color=a9b1d6&bg_color=0D1117" alt="Top Langs" height="165" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-raval&show_icons=true&theme=tokyonight&hide_border=true&title_color=64FFDA&text_color=a9b1d6&bg_color=0D1117" alt="Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya-raval&show_icons=true&theme=tokyonight&hide_border=true&title_color=64FFDA&text_color=a9b1d6&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-raval&layout=compact&theme=tokyonight&hide_border=true&title_color=64FFDA&text_color=a9b1d6&bg_color=0D1117" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-raval&theme=tokyonight&hide_border=true&stroke=64FFDA&background=0D1117&ring=64FFDA&currStreakNum=64FFDA" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-raval&theme=tokyonight&hide_border=true&stroke=64FFDA&background=0D1117&ring=64FFDA" width="100%" />
 </p>
 
 ---
-
-### 📂 Featured Projects
-
-#### 🤖 **AI Cluster**
-> A discovery engine for AI tools. Architected the backend to handle complex resource mapping and pricing filters.
-> `Next.js` `MySQL` `API Integration`
-
-#### 🏢 **My Buildings**
-> A full-scale Society Management System handling everything from maintenance to visitor logs.
-> `PHP` `CodeIgniter` `Firebase`
-
----
-
-### 📧 Let's Connect
-
-<p align="left">
-  <a href="mailto:ravalshreya.2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=000&color=000" /></a>
-  <a href="https://shreya-raval-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=64FFDA&labelColor=000&color=000" /></a>
-  <a href="https://linkedin.com/in/shreya-raval"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=000&color=000" /></a>
-</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreya-raval/shreya-raval/main/path/to/line-divider.png" width="100%" />
-  <p><i>"The best way to predict the future is to build it."</i></p>
+
+### 🤝 LET'S_CONNECT
+
+[**PORTFOLIO**](https://shreya-raval-portfolio.vercel.app/) | [**LINKEDIN**](https://linkedin.com/in/shreya-raval) | [**EMAIL**](mailto:ravalshreya.2004@gmail.com)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzZ4dzZ4ZWZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
+
 </div>
